@@ -1,4 +1,4 @@
-# 🏡 UK Property Price Trend
+# 🏡 UK Property Price Trends
 
 **🔍 Project Overview**:  
 This project explores changes in property prices across various regions in the UK over a period of 36 months, focusing on statistical analysis and visualization of trends. The primary goal is to identify and interpret regional property price trends using statistical methods and to assess how prices vary over time.
